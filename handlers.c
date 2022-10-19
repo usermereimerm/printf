@@ -180,7 +180,7 @@ unsigned int (*handle_specifiers(const char *specifier))(va_list, buffer_t *,
 		{'X', convert_X},
 		{'S', convert_S},
 		{'p', convert_p},
-		{'r', convert_r},
+		/*{'r', convert_r},*/
 		{'R', convert_R},
 		{0, NULL}
 	};
