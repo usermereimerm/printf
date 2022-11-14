@@ -108,5 +108,4 @@ These are all the tasks of this project, the ones that are completed link to the
 ---
 
 ### Authors
-* **BECKY ISIJOLA** - [temmyisijola@gmail.com](https://github.com/Becky04)
-* **GODSWILL KALU** - [messagelordwill@gmail.com](https://github.com/Lordwill1)
+* **ABUBAKAR ABDULAZEEZ USMAN** - [arabiusman99@gmail.com](https://github.com/arabson99)
