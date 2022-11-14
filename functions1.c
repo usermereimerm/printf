@@ -1,9 +1,6 @@
 #include "main.h"
 
-
-
 /************************* PRINT UNSIGNED NUMBER *************************/
-
 /**
  * print_unsigned - Prints an unsigned number
  * @types: List a of arguments
@@ -52,6 +49,7 @@ int print_unsigned(va_list types, char buffer[],
 int print_octal(va_list types, char buffer[],
 	int flags, int width, int precision, int size)
 {
+
 	int i = BUFF_SIZE - 2;
 	unsigned long int num = va_arg(types, unsigned long int);
 	unsigned long int init_num = num;
@@ -80,7 +78,6 @@ int print_octal(va_list types, char buffer[],
 }
 
 /************** PRINT UNSIGNED NUMBER IN HEXADECIMAL **************/
-
 /**
  * print_hexadecimal - Prints an unsigned number in hexadecimal notation
  * @types: Lista of arguments
@@ -99,7 +96,6 @@ int print_hexadecimal(va_list types, char buffer[],
 }
 
 /************* PRINT UNSIGNED NUMBER IN UPPER HEXADECIMAL **************/
-
 /**
  * print_hexa_upper - Prints an unsigned number in upper hexadecimal notation
  * @types: Lista of arguments

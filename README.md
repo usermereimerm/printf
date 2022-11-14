@@ -1,6 +1,6 @@
+# printf Project
 
-o - printf
-i - cription
+## Description
 This team project is part of the first year curriculum of ALX.
 _printf replicates the C standard library printf() function.
 
@@ -108,6 +108,5 @@ These are all the tasks of this project, the ones that are completed link to the
 ---
 
 ### Authors
-* *ABDULAZEEZ USMAN* - [arabson99@gmail.com](https://github.com/arabson99)
-* **USAMA AUWAL** - [usermereimerm@gmail.com](https://github.com/usermereimerm)
-
+* **BECKY ISIJOLA** - [temmyisijola@gmail.com](https://github.com/Becky04)
+* **GODSWILL KALU** - [messagelordwill@gmail.com](https://github.com/Lordwill1)
